@@ -1,0 +1,38 @@
+{
+  "creators": [
+    {
+      "affiliation": "Earth Lab, University of Colorado - Boulder",
+      "name": "Wasser, Leah",
+      "orcid": "0000-0002-8177-6550"
+    },
+    {
+      "affiliation": "Earth Lab, University of Colorado - Boulder",
+      "name": "Palomino, Jenny",
+      "orcid": "0000-0003-4879-9299"
+    },
+    {
+      "affiliation": "Earth Lab, University of Colorado - Boulder",
+      "name": "McGlinchy, Joe",
+      "orcid": "0000-0003-2135-0168"
+    },
+    {
+      "affiliation": "Berkeley Institute for Data Science, UC Berkeley",
+      "name": "Holdgraf, Chris",
+      "orcid": "0000-0002-2391-0678"
+    }
+  ],
+  "contributors": [
+    {
+      "type":"Other",
+      "affiliation": "DigitalGlobe",
+      "name": "Morrissey, Martha",
+      "orcid": "0000-0002-5406-171X"
+    }
+  ],
+  "keywords": [
+    "open gis",
+    "geospatial",
+    "earth analytics"
+  ],
+  "license": "CC-BY-NC-ND-4.0"
+}
