@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/169454482.svg)](https://zenodo.org/badge/latestdoi/169454482)
+
 # Earth Analytics Workshop Materials - Get Started With GIS in Open Source Python
 
 This workshop on Get Started With GIS in Open Source Python is taught by instructors in <a href="https://www.colorado.edu/earthlab/" target="_blank"> Earth Lab at CU Boulder</a>. 
